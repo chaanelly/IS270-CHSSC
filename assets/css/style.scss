@@ -2,3 +2,38 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* Background colour of the whole page */
+body {
+  background-color: #585123;
+}
+
+/* Main text colour */
+body, p, li {
+  color: #f4d8a4;
+}
+
+/* Heading colours */
+h1, h2, h3 {
+  color: #F4712A;
+}
+
+/* Link colours */
+a {
+  color: #F4712A;
+}
+
+/* Link hover colour */
+a:hover {
+  color: #f57d3d;
+}
+
+/* The sidebar/header background */
+header {
+  background-color: #585123;
+}
+
+/* Sidebar text and links */
+header a {
+  color: #F4712A;
+}
