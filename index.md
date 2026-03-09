@@ -2,9 +2,9 @@
 
 Summary
 
-## [Transcript: Riona Tsai, Community Archivist](./riona-transcript.html)
+## [Transcript: Riona Tsai, Community Archivist](./riona-transcript.md)
 
-## [Transcript: David Castro, Archives Committee Chair](./david-transcript.html)
+## [Transcript: David Castro, Archives Committee Chair](./david-transcript.md)
 
 
 # Community Archivist Position
