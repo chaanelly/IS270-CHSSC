@@ -4,9 +4,9 @@
 
 Summary
 
-_[Transcript: Riona Tsai, Community Archivist](./riona-transcript.md)_
+_[Transcript: Riona Tsai, Community Archivist](./pages/riona-transcript.md)_
 
-_[Transcript: David Castro, Archives Committee Chair](./david-transcript.md)_
+_[Transcript: David Castro, Archives Committee Chair](./pages/david-transcript.md)_
 
 
 
