@@ -4,64 +4,45 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title | default: site.title }}</title>
-    {% seo %}
+{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-
-    <style>
-      /* Fix header/footer overlap and add breathing room */
-      .wrapper {
-        display: flex;
-        flex-direction: column;
-        min-height: 100vh;
-      }
-      section {
-        padding: 20px 20px 40px 20px;  /* top right bottom left */
-        margin-bottom: 60px;           /* space above footer */
-      }
-      footer {
-        padding: 20px;
-        margin-top: auto;
-      }
-    </style>
   </head>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {% include navigation.html %}
+    {{ content }}
+  </body>
   <body>
     <div class="wrapper">
       <header>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
+        {% endif %}   
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>Community archives based in LA Chinatown</p>
-        <p>Founded in 1975</p>
+        <p>Founded in 1975</p>     
         <br>
         <p>°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･</p>
         <br>
-
         <h2><a href="https://chssc.org" target="_blank">CHSSC Website</a></h2>
         <h2><a href="https://chsscdigital.libraryhost.com/s/Collections/page/welcome" target="_blank">CHSSC Digital Archives</a></h2>
-
         <br>
-        <h3>Navigation</h3>
-        <!-- To add/edit links: copy any <a> line and change the href and label text -->
-        <a href="{{ '/' | relative_url }}">Home</a><br>
-        <a href="{{ '/pages/community-archivist.html' | relative_url }}">Community Archivist Role</a><br>
-        <a href="{{ '/pages/professional-context.html' | relative_url }}">Professional Context</a><br>
-        <a href="{{ '/pages/skills-training.html' | relative_url }}">Skills and Training</a><br>
-        <a href="{{ '/pages/labor-trends.html' | relative_url }}">Labor Trends</a><br>
-        <a href="{{ '/pages/AI-implications.html' | relative_url }}">AI Implications</a><br>
-        <a href="{{ '/pages/annotated-biblio.html' | relative_url }}">Bibliography</a><br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
       </header>
-
       <section>
-        {{ content }}
+        {{content}}
       </section>
-
       <footer>
         <p>IS 270 Specialization Dossier by Cheeyeon, Chanel, Jana, and Sage</p>
       </footer>
