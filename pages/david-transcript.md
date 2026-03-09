@@ -1,3 +1,3 @@
 David Castro
 
-[back](./index.md)
+[back](../index.md)
