@@ -1,4 +1,4 @@
-![CHSSC Building](./assets/img/chssc-building.png)
+![CHSSC Building](./assets/img/chssc-building.jpeg)
 
 # Overview
 
