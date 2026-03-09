@@ -1,3 +1,5 @@
+![CHSSC Building](./assets/img/chssc-building.png)
+
 # Overview
 
 Summary
