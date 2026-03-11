@@ -6,7 +6,7 @@
 
 <h2>Mid-career</h2>
 
-[Archivist for Visual Materials - The Huntington](https://turtledurdle.github.io/IS270-CHSSC/Archivist for Visual Materials - Huntington.pdf)
+[Archivist for Visual Materials - The Huntington](https://turtledurdle.github.io/IS270-CHSSC/Archivist-for-Visual-Materials-Huntington.pdf)
 
 [
 
