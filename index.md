@@ -12,6 +12,10 @@ Other ‘soft’ technical skills include: **mutual respect, trust building and 
 
 Finally, the interviews highlighted some of the **structural challenges** of community archival work, As David noted, community archival work can be “financially unstable” because many roles depend on temporary funding sources. Many community archives rely on grant funding, which can result in short-term positions without benefits. Despite these challenges, both archivists emphasized that the work is meaningful because it is reflective of their community members, helps ensure that community histories are preserved, and accessible for future generations.
 
+<br>
+
+# Interview Transcripts
+
 _[Transcript: Riona Tsai, Community Archivist](./pages/riona-transcript.md)_
 
 _[Transcript: David Castro, Archives Committee Chair](./pages/david-transcript.md)_
