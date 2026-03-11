@@ -38,6 +38,8 @@ These postings demonstrate the range of responsibilities across career stages—
 
 [Archivist for Community Collections - University of Michigan](https://turtledurdle.github.io/IS270-CHSSC/archivist-community-collections-michigan.pdf)
 
+[Head of Archives and Special Collections - Center for Craft](https://turtledurdle.github.io/IS270-CHSSC/head-of-archives-sc-centerforcraft.pdf)
+
 <br>
 
 <h2>Senior level</h2>
