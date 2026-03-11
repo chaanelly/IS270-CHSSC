@@ -6,11 +6,13 @@
 
 [Assistant Archivist - Mike Kelley Foundation for the Arts](https://turtledurdle.github.io/IS270-CHSSC/Asst-Archivist-Mike-Kelley.pdf) 
 
+
 <h2>Mid-career</h2>
 
 [Archivist for Visual Materials - The Huntington](https://turtledurdle.github.io/IS270-CHSSC/Archivist-for-Visual-Materials-Huntington.pdf)
 
-[
+[Theresa Salazar Curator - The Bancroft Library](https://turtledurdle.github.io/IS270-CHSSC/Theresa-Salazar-Curator-Bancroft.pdf)
+
 
 <h2>Senior level</h2>
 
