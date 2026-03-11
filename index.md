@@ -16,9 +16,9 @@ Finally, the interviews highlighted some of the **structural challenges** of com
 
 # Interview Transcripts
 
-_[Transcript: Riona Tsai, Community Archivist](./pages/riona-transcript.md)_
+✷ _[Riona Tsai, Community Archivist](./pages/riona-transcript.md)_
 
-_[Transcript: David Castro, Archives Committee Chair](./pages/david-transcript.md)_
+✷ _[David Castro, Archives Committee Chair](./pages/david-transcript.md)_
 
 
 
