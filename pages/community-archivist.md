@@ -12,7 +12,7 @@
 
 <h2>Senior level</h2>
 
-[Director of Special Collections and University Archives](https://turtledurdle.github.io/IS270-CHSSC/Director-SC-UCR.pdf)
+[Director of Special Collections and University Archives - UC Riverside](https://turtledurdle.github.io/IS270-CHSSC/Director-SC-UCR.pdf)
 
 
 [back](../index.md)
