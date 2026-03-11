@@ -2,7 +2,7 @@
 
 # Overview
 
-We interviewed two archivists at the Chinese Historical Society of Southern California (CHSSC). Riona Tsai, a UCLA MLIS graduate who was recently hired as a full-time archivist, described the day-to-day responsibilities and early career realities of the profession. David Castro, who serves as a board member and chair of the archives committee, provided a broader institutional perspective.
+We interviewed two archivists at the Chinese Historical Society of Southern California (CHSSC). **Riona Tsai**, a UCLA MLIS graduate who was recently hired as a full-time archivist, described the day-to-day responsibilities and early career realities of the profession. **David Castro**, who serves as a board member and chair of the archives committee, provided a broader institutional perspective.
 
 One of the main takeaways from both interviews is that community archivists often have to take on **many roles at once.** Riona noted that the job description did not fully capture the scope of the work. At CHSSC, current priorities include processing a backlog of approximately 200 linear feet of archival material, strengthening disaster preparedness systems, and developing programming and partnerships with other public history organizations. 
 
