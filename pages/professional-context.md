@@ -1,3 +1,45 @@
-blah blah blah
+# Professional Context
+Community archivists participate in a broader professional network that includes professional associations, conferences, journals, and online forums. These organizations provide professional guidelines, networking opportunities, and continuing education resources. The journals publish scholarship on archival theory, digital preservation, ethics, and community archiving.
+
+## Professional Associations
+Society of American Archivists (SAA)
+Association of Moving Image Archivists (AMIA)
+American Library Association (ALA)
+Society of California Archivists (SCA)
+
+## Conferences
+Society of American Archivists Annual Meeting
+Society of California Archivists Annual General Meeting
+Allied Media Conference (often includes community archiving discussions)
+International Council on Archives (ICA) events
+
+## Journals
+The American Archivist
+Archivaria
+Archival Science
+Journal of Critical Library and Information Studies
+
+## Job Boards and Forums
+Many archivists also rely heavily on professional networks, internships, and listservs to learn about job opportunities, particularly in the community archives sector. According to our interview with Riona, archivists frequently use the following sites when searching for jobs:
+https://archivesgig.com
+https://www.higheredjobs.com
+https://inalj.com
+https://joblist.ala.org
+https://www.cla-net.org
+
+### Limited but meaningful opportunities
+Community archives are still a relatively small sector within the archival profession.
+Many operate as grassroots organizations or small nonprofits with limited staff and resources (Flinn 2007; Flinn, Stevens, and Shepherd 2009). Because of this structure, full-time positions are less common than in universities, government archives, or large cultural institutions.
+
+### Grant-funded and temporary positions
+Scholars have noted that community archives often operate with limited financial stability and rely on temporary funding sources, which can affect staffing structures (Flinn, Stevens, and Shepherd 2009).
+Many jobs are funded through grants or short-term projects. For example, the CHSSC archivist position described in our interview is a two-year grant-funded role without benefits.
+This means archivists often move between projects or combine community archive work with other institutional roles.
+
+### Growing interest in community archives
+Despite funding challenges, interest in documenting marginalized histories has grown significantly in recent years. Scholars argue that community archives have become an important way for communities to document their own histories and challenge gaps in institutional archives (Caswell, Cifor, and Ramirez 2016).
+Universities and foundations have increasingly supported this work through collaborative programs and funding initiatives. Programs such as the Mellon-funded Community Archives Internship Program developed by Dr. Michelle Caswell at UCLA, which places graduate students in community archives and provides training in community-based archival practice, demonstrates growing institutional support for this type of work.
+
+<br>
 
 [back](../index.md)
