@@ -22,6 +22,8 @@ These postings demonstrate the range of responsibilities across career stages—
 
 <h2>Mid-career</h2>
 
+[Community Archivist, The Graterford Archive - Haverford College](https://turtledurdle.github.io/IS270-CHSSC/community-archivist-graterford.pdf)
+
 [Archivist for Visual Materials - The Huntington](https://turtledurdle.github.io/IS270-CHSSC/Archivist-for-Visual-Materials-Huntington.pdf)
 
 [Theresa Salazar Curator - The Bancroft Library](https://turtledurdle.github.io/IS270-CHSSC/Theresa-Salazar-Curator-Bancroft.pdf)
@@ -33,6 +35,8 @@ These postings demonstrate the range of responsibilities across career stages—
 [Lead Archivist - Shorefront Legacy Center](https://turtledurdle.github.io/IS270-CHSSC/lead-archivist-shorefront.pdf)
 
 [Digital Archivist - SCULB University Library](https://turtledurdle.github.io/IS270-CHSSC/digital-archivist-csulb.pdf)
+
+[Archivist for Community Collections - University of Michigan](https://turtledurdle.github.io/IS270-CHSSC/archivist-community-collections-michigan.pdf)
 
 <br>
 
