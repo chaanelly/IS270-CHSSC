@@ -16,7 +16,7 @@
 
 [Theresa Salazar Curator - The Bancroft Library](https://turtledurdle.github.io/IS270-CHSSC/Theresa-Salazar-Curator-Bancroft.pdf)
 
-[Irma McClaurin Black Feminist Archivist]
+[Irma McClaurin Black Feminist Archivist](https://turtledurdle.github.io/IS270-CHSSC/irma-mcclaurin-black-feminist-archivist.pdf)
 
 <br>
 
