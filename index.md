@@ -10,7 +10,7 @@ Both interviewees also emphasized that **relationship-building with community me
 
 Other ‘soft’ technical skills include: **mutual respect, trust building and boundaries.** These priorities stand at odds with development in AI and its potential use within archives. While David reflected that the organization needed to create AI guidelines; for Riona, AI is a hard-line. As stewards of cultural information, they both expressed concerns around **ethics and accuracy of AI.** 
 
-Finally, the interviews highlighted some of the **structural challenges** of community archival work, As David noted, community archival work can be “financially unstable” because many roles depend on temporary funding sources. Many community archives rely on grant funding, which can result in short-term positions without benefits. Despite these challenges, both archivists emphasized that the work is meaningful because it is reflective of their community members, helps ensure that community histories are preserved, and accessible for future generations.
+Finally, the interviews highlighted some of the **structural challenges** of community archival work, As David noted, community archival work can be “financially unstable” because many roles depend on temporary funding sources. Many community archives rely on grant funding, which can result in short-term positions without benefits. Despite these challenges, both archivists emphasized that the work is meaningful because it is reflective of their community members and helps ensure that community histories are preserved and accessible for future generations.
 
 <br>
 
