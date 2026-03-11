@@ -34,6 +34,8 @@ These postings demonstrate the range of responsibilities across career stages—
 
 [Lead Archivist - Shorefront Legacy Center](https://turtledurdle.github.io/IS270-CHSSC/lead-archivist-shorefront.pdf)
 
+[Archivist - L.A. Louver](https://turtledurdle.github.io/IS270-CHSSC/archivist-la-louver.pdf)
+
 [Digital Archivist - SCULB University Library](https://turtledurdle.github.io/IS270-CHSSC/digital-archivist-csulb.pdf)
 
 [Archivist for Community Collections - University of Michigan](https://turtledurdle.github.io/IS270-CHSSC/archivist-community-collections-michigan.pdf)
