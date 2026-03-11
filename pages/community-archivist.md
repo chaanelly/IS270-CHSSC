@@ -6,6 +6,8 @@
 
 [Political Collections Archivist - Arizona State University](https://turtledurdle.github.io/IS270-CHSSC/political-collections-asu.pdf)
 
+[Processing Archivist - Rhode Island Black Heritage Society](https://turtledurdle.github.io/IS270-CHSSC/archivist-ribhs.pdf)
+
 [Assistant Archivist - Mike Kelley Foundation for the Arts](https://turtledurdle.github.io/IS270-CHSSC/Asst-Archivist-Mike-Kelley.pdf) 
 
 <br>
