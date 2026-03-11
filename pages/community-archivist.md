@@ -1,6 +1,8 @@
 <h1>Example Job Descriptions</h1>
 These postings demonstrate the range of responsibilities across career stages—from processing collections and digitization at the entry level to program management, strategic planning, and supervision in senior roles.
 
+<br>
+
 
 <h2>Entry level/early career</h2>
 
