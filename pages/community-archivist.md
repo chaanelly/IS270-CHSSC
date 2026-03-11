@@ -20,6 +20,8 @@
 
 [Irma McClaurin Black Feminist Archivist - University of Massachusetts Amherst](https://turtledurdle.github.io/IS270-CHSSC/irma-mcclaurin-black-feminist-archivist.pdf)
 
+[Research Archivist - Friends of the New York Transit Museum](https://turtledurdle.github.io/IS270-CHSSC/archivist-ny-transit-museum.pdf)
+
 <br>
 
 <h2>Senior level</h2>
