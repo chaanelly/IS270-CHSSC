@@ -30,9 +30,17 @@ These postings demonstrate the range of responsibilities across career stages—
 
 [Lead Archivist - Shorefront Legacy Center](https://turtledurdle.github.io/IS270-CHSSC/lead-archivist-shorefront.pdf)
 
+[Digital Archivist - SCULB University Library](https://turtledurdle.github.io/IS270-CHSSC/digital-archivist-csulb.pdf)
+
 <br>
 
 <h2>Senior level</h2>
+
+[LGBT Director of Archives and Special Collections - GLBT Historical Society](https://turtledurdle.github.io/IS270-CHSSC/lgbt-director-glbths.pdf)
+
+[Executive Director - June L. Mazer Lesbian Archives](https://turtledurdle.github.io/IS270-CHSSC/exec-director-mazer-archives.pdf)
+
+[Supervisor, Archives & Manuscripts Collections - Corning Museum of Glass](https://turtledurdle.github.io/IS270-CHSSC/supervisor-corning-museum-of-glass.pdf)
 
 [Director of Special Collections and University Archives - UC Riverside](https://turtledurdle.github.io/IS270-CHSSC/Director-SC-UCR.pdf)
 
