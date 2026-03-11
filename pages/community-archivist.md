@@ -24,6 +24,8 @@
 
 [Director of Special Collections and University Archives - UC Riverside](https://turtledurdle.github.io/IS270-CHSSC/Director-SC-UCR.pdf)
 
+[Curator of Manuscripts and Archival Collections](https://turtledurdle.github.io/IS270-CHSSC/curator-of-manuscripts-archival-collections-nyhs.pdf)
+
 <br>
 <br>
 
