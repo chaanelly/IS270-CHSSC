@@ -2,7 +2,7 @@
 
 [CHSSC Community Archivist Job Description](https://turtledurdle.github.io/IS270-CHSSC/CHSSC_Community_Archivist_Job_Description_v2.pdf)
 
-[Assistant Archivist - Mike Kelley Foundation for the Arts] (https://turtledurdle.github.io/IS270-CHSSC/Asst-Archivist-Mike-Kelley.pdf)
+[Assistant Archivist - Mike Kelley Foundation for the Arts] (https://turtledurdle.github.io/IS270-CHSSC/Asst-Archivist-Mike-Kelley.pdf) 
 
 <h2>Mid-career</h2>
 
@@ -11,6 +11,8 @@
 [
 
 <h2>Senior level</h2>
+
+[Director of Special Collections and University Archives](https://turtledurdle.github.io/IS270-CHSSC/Director-SC-UCR.pdf)
 
 
 [back](../index.md)
