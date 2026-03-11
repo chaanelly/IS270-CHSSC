@@ -16,6 +16,8 @@ These postings demonstrate the range of responsibilities across career stages—
 
 [Assistant Archivist - Mike Kelley Foundation for the Arts](https://turtledurdle.github.io/IS270-CHSSC/Asst-Archivist-Mike-Kelley.pdf) 
 
+[Program Manager/Archivist - Black Metropolis Research Consortium](https://turtledurdle.github.io/IS270-CHSSC/archivist-bmrc.pdf)
+
 <br>
 
 <h2>Mid-career</h2>
