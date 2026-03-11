@@ -22,6 +22,8 @@
 
 [Research Archivist - Friends of the New York Transit Museum](https://turtledurdle.github.io/IS270-CHSSC/archivist-ny-transit-museum.pdf)
 
+[Lead Archivist - Shorefront Legacy Center](https://turtledurdle.github.io/IS270-CHSSC/lead-archivist-shorefront.pdf)
+
 <br>
 
 <h2>Senior level</h2>
