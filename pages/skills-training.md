@@ -46,7 +46,7 @@ These are the necessary skills that a community archivist needs in their work en
 
 **Self-motivated**\
   ‣ Community archivists need to be independent and self-sufficient because they are often working alone and researching how to do things.\
-  ‣ Determining organizational priorities can improve present and future working conditions for staff. At CHSSC, the space needed to be cleaned and cleared before archival work could start. Riona also identified the need for documentation of archival work and proper write-ups of procedures and policies.
+  ‣ Determining organizational priorities can improve present and future working conditions for staff. At CHSSC, the space needed to be cleaned and cleared before archival work could start. Riona also identified the need for proper documentation of archival work and proper write-ups of procedures and policies.
 
   <br>
 
