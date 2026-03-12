@@ -244,7 +244,7 @@ I don't think so. I mean, one of my friends has a full time job. But again, it's
 **Cheeyeon**\
 What percentage of people who are interested in community archives, would you say is actually working at community archives?
 
-**Riona**\ 
+**Riona**\
 That’s a good question. For example, because there's five interns for the Mellon grant, right, and I know one of them is working at a community archive, or two of them were, but I don't know how long they were working there. And it's very much like, we can have you on for a couple months. I think one of them is working at an academic archive right now. So a good amount of people, I feel like that's a really small pool. But a lot of the times community archives just don't have a full time thing. And that's kind of the problem. There's a lot of people who aren't just in community archives, but because it's a field [where] it's hard to get a job, they will pivot to other things. And which is why, even when I was in the program, I wanted to learn more than just archiving stuff. I wanted to take the media archiving class to library classes as well. Because I think all of these skills are really important. And they can help with whatever type of job you have in the future.
 
 **Cheeyeon**\
