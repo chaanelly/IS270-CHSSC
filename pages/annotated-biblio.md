@@ -1,5 +1,9 @@
 # Helpful Resources
 
+[Subscribe to the IS network listserv](https://lists.gseis.ucla.edu/sympa/subscribe/is-network)
+
+
+
 # Annotated Bibliography
 
 **Caswell, Michelle, Marika Cifor, and Mario H. Ramirez. “To Suddenly Discover Yourself Existing: Uncovering the Impact of Community Archives.” _The American Archivist_ 79, no. 1 (2016): 56–81.**\
