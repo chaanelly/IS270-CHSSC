@@ -1,4 +1,4 @@
-![Jan. 1 1949. Ferguson Alley. View is east in Alley toward N. Alameda St. L.A. Calif.](../assets/img/street-scene-alameda.jpeg)\
+![Jan. 1 1949. Ferguson Alley. View is east in Alley toward N. Alameda St. L.A. Calif.](../assets/img/ferguson-alley.jpeg)\
 _Night time view down Ferguson Alley toward Union Station. Part of the L.T. Holman Gotchy Collection (1949)._
 
 <br>
