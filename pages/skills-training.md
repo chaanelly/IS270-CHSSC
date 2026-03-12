@@ -1,5 +1,7 @@
 # Skills and Training
 
+<br>
+
 ## Hard Skills
 
 **Archival processing**\
