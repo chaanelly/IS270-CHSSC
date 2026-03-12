@@ -61,7 +61,7 @@ _Children playing Chinese jump rope at the playground. From Castelar Elementary 
 The MLIS degree does not prepare us for the in-and-outs of the archival profession; coupled with ever-changing technologies means we will constantly be adapting and learning as the field adjusts to changes. Lean into learning, be receptive to new ideas, and get creative to navigate challenges that come up. 
 
 **Hands on learning**\
-Classes within the program are incredibly theory-heavy, so seek out opportunities to apply class learnings. Riona advised, “get internships whenever you can, you learn so much through internships, and you gain a lot of knowledge through work experiences.” Students should pursue jobs and internships that provide praxis to complement the theories and skills they are learning in class.
+Classes within the program are incredibly theory-heavy, so seek out opportunities to apply class learnings. Riona advised, “get internships whenever you can, getting to work at an internship or a job is almost an education, and you gain a lot of knowledge through work experiences.” Students should pursue jobs and internships that provide praxis to complement the theories and skills they are learning in class.
 
 **Networking**\
 Although uncomfortable, students should practice their networking and connecting skills. Through our two conversations, it was evident that relationships built during MLIS programs or internships often lead directly to employment opportunities. Both interviewees emphasized that many opportunities come through professional networks and internships rather than formal job postings.
