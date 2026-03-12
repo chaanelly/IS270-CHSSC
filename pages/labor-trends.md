@@ -18,6 +18,8 @@ This frequent expectation to be attuned to the organizational foundation can wei
 <br>
 
 ### Human relationships over machine learning
+On the topic of AI, both David and Riona shared concerns about the drastic impacts it would have for information professionals. David attended an AI-focused seminar hosted by Preservica, a digital preservation software, which is used at his job at Cal Poly Pomona. AI tools in the software would be able to weed out duplicates, provide descriptive metadata, along with other components and widgets. JSTOR is releasing similar AI-run digital asset management tools. He's concerned that these tools will "reduce the role of a metadata librarian or a metadata specialist to nothing more than a quality control agent." Perhaps compensation would be lowered or jobs would be cut if university administrators carry this belief, he speculated. For Riona, her main concern pertains to the uncertainty of information flow on the internet. By making digital archives accessible online, which may contain sensitive cultural information, what happens when someone passes that information through ChatGPT? She expressed a deep fear for privacy rights, surveillance, and an over-reliance on these tools when tasks can be easily done herself.
+
 AI lacks the understanding of cultural and heritage archival materials that are made meaningful by human relationships, like the ones CHSSC has cultivated for decades within their community. While “mutual learning” between large language models and users seems to preserve a conversational memory or history, there is an emotional depth informed by shared experiences, especially of marginalized communities, that benefit both the archivist and the user. 
 
 <br>
