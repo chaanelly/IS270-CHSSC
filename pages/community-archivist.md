@@ -27,4 +27,9 @@ Link opens PDF
 
 <br>
 
+![Golden Spike](../assets/img/ferguson-alley.jpeg)\
+_Golden Spike: Field trip to Promontory, Utah to participate in the 130th anniversary of the driving of the Golden Spike that completed the Transcontinental Railroad (1998-1999)._
+
+<br>
+
 [⇽ back](../index.md)
