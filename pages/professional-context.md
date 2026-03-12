@@ -1,5 +1,5 @@
 ![Sept. 29 1940 West side of North Alameda St. between Ferguson Allet & Marchessault St (Sunset Blvd). L.A. Cal.](../assets/img/755-alameda-st.jpeg)\
-_Building at 755 Alameda Street with a car parked in front. On the left side of the building is the First Presbyterian Chinese Mission. On the right side of the building is Tong Kee Co, a grocery store.. Part of the L.T. Holman Gotchy Collection (1940)._
+_Building at 755 Alameda Street with a car parked in front. On the left side of the building is the First Presbyterian Chinese Mission. On the right side of the building is Tong Kee Co, a grocery store. Part of the L.T. Holman Gotchy Collection (1940)._
 
 <br>
 
