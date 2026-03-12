@@ -3,7 +3,7 @@ _The Chinatown Heritage Center at 411 Bernard St, Los Angeles._
 
 # Overview
 
-The two Chinese Historical Society of Southern California (CHSSC) archivists we interviewed provided a comprehensive job overview: their archivist, **Riona Tsai,** a UCLA MLIS graduate, described the day-to-day and career realities; and board member and chair of the archives committee, **David Castro,** offered a broader institutional perspective. 
+The two Chinese Historical Society of Southern California (CHSSC) archivists we interviewed provided a comprehensive job overview: their archivist, **Riona Tsai,** a UCLA MLIS graduate, described the day-to-day and early career realities; and board member and chair of the archives committee, **David Castro,** offered a broader institutional perspective. 
 
 The interviews emphasized that archivists **simultaneously fulfill many roles** and Riona noted the job description did not fully capture the scope of work. At CHSSC, priorities include processing a backlog of 200 linear feet of archival material, strengthening disaster preparedness systems, and developing programming. 
 
