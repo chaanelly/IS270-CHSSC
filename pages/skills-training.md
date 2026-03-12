@@ -36,6 +36,18 @@ SELF-MOTIVATED\
   ‣ independent and self-sufficient (often working alone, researching how to do things)\
   ‣ determining organizational priorities (at CHSSC: space needed to be cleaned and cleared before archival work could start, lack of procedures and documentation
 
+## Preparation
+
+**“Learn how to learn”**\
+The MLIS degree does not prepare us for the in-and-outs of the archival profession; that coupled with ever changing technologies means we will constantly be adapting and learning as the field adjusts to changes. Lean into learning, be receptive to new ideas, and get creative to navigate challenges that come up. 
+
+**Hands on learning**\
+Classes within the program are incredibly theory heavy, seek out opportunities to apply things. Riona advised, “get internships whenever you can, you learn so much through internships, you gain a lot of knowledge through work experiences.” 
+Students should pursue jobs and internships that provide praxis to compliment the theories and skills they are learning in class 
+
+**Networking**\
+Although uncomfortable, students should practice their networking and connecting skills, through our two conversations it was made evident that relationships built during MLIS programs or internships often lead directly to employment opportunities.
+Both interviewees emphasized that many opportunities come through professional networks and internships rather than formal job postings.
 
 
 
