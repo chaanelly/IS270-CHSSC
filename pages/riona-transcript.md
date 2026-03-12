@@ -356,7 +356,7 @@ Thank you so much. Have a good one.
 
 <br>
 
-_Note: Transcript was edited by Jana and Chanel for accuracy, clarity, and brevity._
+_Note: This transcript was edited by Jana and Chanel for accuracy, clarity, and brevity._
 
 <br>
 
