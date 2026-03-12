@@ -177,7 +177,7 @@ Okay thank you so much, bye.
 
 <br>
 
-_Note: Transcript was edited by Jana and Chanel for accuracy, clarity, and brevity._
+_Note: This transcript was edited by Jana and Chanel for accuracy, clarity, and brevity._
 
 <br>
 
