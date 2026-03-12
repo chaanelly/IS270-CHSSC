@@ -5,16 +5,16 @@ _Children playing on the monkey bars at the playground. From Castelar Elementary
 
 <br>
 
-These are the necessary skills that a community archivist needs to practice in their work environment, based on our interviews, IS classes, and secondary research.
+These are the necessary skills that a community archivist needs in their work environment based on our interviews, IS classes, and secondary research.
 
 ## Hard Skills
 
 **Archival processing**\
-  ‣ Familiarity with ArchivesSpace\
+  ‣ Familiarity with ArchivesSpace software\
   ‣ Housing and storage of archival objects
   
 **Digitization for digital archives and exhibitions**\
-  ‣ Skills in metadata, digital asset management systems, digitization, and digital preservation are highly valued
+  ‣ Experience with metadata, digital asset management systems, and digital preservation
   
 **Knowledge of materials and basics of how to preserve them**\
   ‣ Unique objects such as newspapers, textiles, hand-written letters found at CHSSC
