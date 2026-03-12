@@ -20,7 +20,7 @@ These are the necessary skills that a community archivist needs in their work en
   ‣ Unique objects may appear in collections, e.g. newspapers, textiles, hand-written letters were found at CHSSC
   
 **Language skills**\
-  ‣ This was highlighted in our interview with Riona and by Professor Gilliland in IS 431
+  ‣ This was highlighted in our interview with Riona and by Professor Gilliland in IS 431\
   ‣ Important for building trust with community members and understanding cultural relevance of textual artifacts
   
 **Strong organizational skills, especially to track individual files and their status**\
@@ -33,7 +33,7 @@ These are the necessary skills that a community archivist needs in their work en
 **Relationship building**\
   ‣ Professional relationships help open doors; in the case of Riona, she introduced herself to Dr. Caswell, took the community archives class, and then secured the Mellon internship. When CHSSC got the grant she was hired as a full time archivist. Those pre-established relationships were vital in securing her job.\
   ‣ On the community level, relationships and trust are based on listening and showing up. For Riona this meant being intentional about attending community events, and incorporating feedback from the community.\
- ‣ We have to understand that especially for marginalized communities there are often layers of distrust for academics and institutions. Academics have the reputation of acting like, “they know better, because they have the degree.” This is not true on many levels, and we have to actively show people, through our actions and words, that we care about the community and intend to build real relationships.
+ ‣ We understand that especially for marginalized communities there are often layers of distrust for academics and institutions. Academics have the reputation of acting like, “they know better, because they have the degree.” This is not true on many levels, and we have to actively show people, through our actions and words, that we care about the community and intend to build real relationships.
 
 **Facilitating mutual respect and mutual trust**\
   ‣ Materials are still owned by the community, it's imperative to approach this work with respect and take the time to build trust with stakeholders and community members.
