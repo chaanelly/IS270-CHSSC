@@ -1,3 +1,8 @@
+![Golden Spike](../assets/img/Golden-Spike.jpg)\
+_Field trip to Promontory, Utah to participate in the 130th anniversary of the driving of the Golden Spike that completed the Transcontinental Railroad (1998-1999)._
+
+<br>
+
 # Labor Trends
 
 The limited funding of smaller community archives restricts not only the capacity of these organizations, but also their ability to compensate and provide for their workers. These constrictions often burden the staff and place stress on their Board of Directors, as everyone is affected by financial constraints, and few institutions are able to allocate resources to dedicate a singular person to pursue long term financial well being. If the financial state of the organization is not shared explicitly amongst the staff, there is still often an awareness of this financial instability and a work culture informed by the lack of capital. At CHSSC, David shared that he does steward fundraising efforts, including grant writing, which he notes is a skill he is interested in developing. In his case, he leverages this position to expand his skillset, which demonstrates a potential advantage to gain experiences he may have not been exposed to otherwise. However, he did state that his fundraising priorities occasionally interfere with explicit archival work and it’s a constant balance to manage that.
