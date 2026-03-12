@@ -1,4 +1,5 @@
 ![Children hanging on the monkey bars](../assets/img/monkeybars.jpeg)
+_Children playing on the monkey bars at the playground. From Castelar Elementary School Collection (1982)._
 
 # Skills and Training
 
@@ -47,6 +48,7 @@
   <br>
 
 ![Children playing Chinese jump rope](../assets/img/jumprope.jpeg)
+_Children playing Chinese jump rope at the playground. From Castelar Elementary School Collection (1982)._
 
 ## Preparation
 
