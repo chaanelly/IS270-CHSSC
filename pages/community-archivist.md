@@ -1,5 +1,6 @@
 ![Screenshot LA Chinatown Interactive Map](../assets/img/storymap.jpeg)\
 _Storymap of historic Chinatown architecture by Riona Tsai (2023)._
+_[Link to storymap](https://storymaps.arcgis.com/stories/13abe733662e493dbfde4fa4ca98cf7d)_
 
 <br>
 
