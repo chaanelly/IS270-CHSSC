@@ -1,4 +1,4 @@
-# Helpful Resources
+# Resources
 
 [Subscribe to the IS network listserv](https://lists.gseis.ucla.edu/sympa/subscribe/is-network)
 
