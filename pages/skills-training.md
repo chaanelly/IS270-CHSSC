@@ -55,6 +55,22 @@ Students should pursue jobs and internships that provide praxis to compliment th
 Although uncomfortable, students should practice their networking and connecting skills, through our two conversations it was made evident that relationships built during MLIS programs or internships often lead directly to employment opportunities.
 Both interviewees emphasized that many opportunities come through professional networks and internships rather than formal job postings.
 
+<br>
+
+## Suggested Classes
+
+**Community archives**
+Learn theoretical foundations and get hands-on experience.
+
+**Language classes** 
+Expands the type and amount of materials you can work with, diversifies archive work and archives.
+
+**Metadata and digital asset management** 
+An essential baseline for archival work.
+
+**Oral History** 
+Essential foundation for community archive work.
+
 
 <br>
 
