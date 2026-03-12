@@ -1,3 +1,5 @@
+![Children hanging on the monkey bars](./assets/img/monkeybars.jpeg)
+
 # Skills and Training
 
 <br>
