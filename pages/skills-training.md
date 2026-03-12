@@ -1,9 +1,7 @@
+# Skills and Training
+
 ![Children hanging on the monkey bars](../assets/img/monkeybars.jpeg)\
 _Children playing on the monkey bars at the playground. From Castelar Elementary School Collection (1982)._
-
-<br>
-
-# Skills and Training
 
 <br>
 
