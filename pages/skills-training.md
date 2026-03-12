@@ -36,7 +36,7 @@ These are the necessary skills that a community archivist needs in their work en
  ‣ We understand that especially for marginalized communities there are often layers of distrust for academics and institutions. Academics have the reputation of acting like, “they know better, because they have the degree.” This is not true on many levels, and we have to actively show people, through our actions and words, that we care about the community and intend to build real relationships.
 
 **Facilitating mutual respect and mutual trust**\
-  ‣ Materials are still owned by the community, it's imperative to approach this work with respect and take the time to build trust with stakeholders and community members.
+  ‣ Materials are still owned by the community. It's imperative to approach this work with respect and take the time to build trust with stakeholders and community members.
 
 **Positionality**\
   ‣ Riona acknowledges being an outsider (not born in LA/SoCal) but being ethnically Chinese helps with cultural connection. She’s mindful of the local desires specific to the community. It is important to cultivate a relationship with the community that the archive is for.
