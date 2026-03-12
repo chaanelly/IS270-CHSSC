@@ -1,3 +1,6 @@
+![Sept. 29, 1940 View is South on West side of N. Alameda St, from Marchessault St. L.A. Cal. Marchessault was later changed to Sunset Blvd.](../assets/img/street-scene-alameda.jpeg)\
+_Street scene on North Alameda Street. Part of the L.T. Holman Gotchy Collection (1940)._
+
 <h1>Example Job Descriptions</h1>
 These postings demonstrate the range of responsibilities across career stages—from processing collections and digitization at the entry level to program management, strategic planning, and supervision in senior roles.
 
