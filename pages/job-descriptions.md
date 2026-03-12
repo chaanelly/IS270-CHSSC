@@ -4,7 +4,7 @@ _Street scene on North Alameda Street. Part of the L.T. Holman Gotchy Collection
 <br>
 
 <h1>Example Job Descriptions</h1>
-These postings demonstrate the range of responsibilities across career stages—from processing collections and digitization at the entry level to program management, strategic planning, and supervision in senior roles.
+These postings demonstrate the range of responsibilities across career stages—from processing collections and digitization at the entry level to program management, strategic planning, and supervision in senior roles.\
 
 _Each link opens a PDF_
 
