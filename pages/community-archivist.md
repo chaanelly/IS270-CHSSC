@@ -23,7 +23,7 @@ Because community archives often have very small staff, archivists must also dev
 
 <br>
 
-### _[📄 CHSSC Community Archivist Job Description](https://turtledurdle.github.io/IS270-CHSSC/CHSSC_Community_Archivist_Job_Description_v2.pdf)_
+### _[🔗 CHSSC Community Archivist Job Description 📄](https://turtledurdle.github.io/IS270-CHSSC/CHSSC_Community_Archivist_Job_Description_v2.pdf)_
 _Link opens PDF_
 
 <br>
