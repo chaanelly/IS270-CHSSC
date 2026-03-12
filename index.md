@@ -23,13 +23,13 @@ Finally, the interviews highlighted some of the **structural challenges** of com
 
 <br>
 
-## 50th Anniversary Video by CHSSC
-
-{% include youtube.html id="wmpA4ObgayY" %}
+![CHSSC Library](./assets/img/CHSSC-Library-1.jpg)
+_CHSSC Research Center and Library. Their physical library features an extensive collection of books pertaining to Chinese American and Asian history.  They have books about Chinese culture, fiction, cookbooks and more!_
 
 <br>
 
-![CHSSC Library](./assets/img/CHSSC-Library-1.jpg)
-_CHSSC Research Center and Library. Their physical library features an extensive collection of books pertaining to Chinese American and Asian history.  They have books about Chinese culture, fiction, cookbooks and more!_
+## 50th Anniversary Video by CHSSC
+
+{% include youtube.html id="wmpA4ObgayY" %}
 
 
