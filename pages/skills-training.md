@@ -3,13 +3,17 @@
 ## Hard Skills
 Archival processing\
   ‣ Familiarity with ArchivesSpace\
-  ‣ Housing and storage of archival objects\
+  ‣ Housing and storage of archival objects
+  
 Digitization for digital archives and exhibitions\
-  ‣ Skills in metadata, digital asset management systems, digitization, and digital preservation are highly valued\
+  ‣ Skills in metadata, digital asset management systems, digitization, and digital preservation are highly valued
+  
 Knowledge of materials and basics of how to preserve them\
-  ‣ Unique objects such as newspapers, textiles, hand-written letters found at CHSSC\
+  ‣ Unique objects such as newspapers, textiles, hand-written letters found at CHSSC
+  
 Language skills\
-  ‣ This was highlighted in our interview with Riona and by Professor Gilliland last quarter\ 
+  ‣ This was highlighted in our interview with Riona and by Professor Gilliland last quarter
+  
 Strong organizational skills, especially to track individual files and their status\
   ‣ Baseline expectation to manage and organize data
 
