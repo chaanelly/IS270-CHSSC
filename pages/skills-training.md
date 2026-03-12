@@ -59,16 +59,16 @@ Both interviewees emphasized that many opportunities come through professional n
 
 ## Suggested Classes
 
-**Community archives**
+**Community archives**\
 Learn theoretical foundations and get hands-on experience.
 
-**Language classes** 
+**Language classes**\ 
 Expands the type and amount of materials you can work with, diversifies archive work and archives.
 
-**Metadata and digital asset management** 
+**Metadata and digital asset management**\ 
 An essential baseline for archival work.
 
-**Oral History** 
+**Oral History**\ 
 Essential foundation for community archive work.
 
 
