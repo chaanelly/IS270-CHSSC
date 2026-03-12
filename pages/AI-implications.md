@@ -14,6 +14,6 @@ _Night time view down Ferguson Alley toward Union Station. Part of the L.T. Holm
 | “Human-centered Approach”  | During our conversation with Riona she expressed real ethical concerns about the use of any AI, especially generative AI. She refuses to use it, although does admit it could support transcribing–although a human would still need to check the work. That thought is in line with Stanford’s AI Literacy guide, that promotes a “human-centered approach,” advocating that all AI use is done to support human efforts and not as a replacement to them.  |
 | Environmental Costs  | AI’s impact extends beyond the physical archive, repercussions for use may be hiding from the immediate sight, however: “AI systems require vast amounts of energy and water to train and maintain. The environmental impact is obscured behind images of frictionless digital efficiency—but it’s something we need to account for in our decision-making.”  |
 
-
+<br>
 
 [⇽ back](../index.md)
