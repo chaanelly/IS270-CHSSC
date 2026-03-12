@@ -1,4 +1,4 @@
-![Children hanging on the monkey bars](./assets/img/monkeybars.jpeg)
+![Children hanging on the monkey bars](../assets/img/monkeybars.jpeg)
 
 # Skills and Training
 
@@ -46,7 +46,7 @@
 
   <br>
 
-![Children playing Chinese jump rope](./assets/img/jumprope.jpeg)
+![Children playing Chinese jump rope](../assets/img/jumprope.jpeg)
 
 ## Preparation
 
