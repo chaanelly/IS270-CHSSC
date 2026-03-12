@@ -46,4 +46,4 @@ Despite funding challenges, interest in documenting marginalized histories has g
 
 <br>
 
-[back](../index.md)
+[⇽ back](../index.md)
