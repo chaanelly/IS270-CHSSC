@@ -15,7 +15,7 @@ Building robust, ethical archival collections
 A collaborative of faculty from nine universities in the U.S. and Canada that formed to support paid internships at community archives. Info about past and present interns and lots of resources on the website.
 
 
-# Annotated Bibliography
+# Readings
 
 **Caswell, Michelle, Marika Cifor, and Mario H. Ramirez. “To Suddenly Discover Yourself Existing: Uncovering the Impact of Community Archives.” _The American Archivist_ 79, no. 1 (2016): 56–81.**\
 This frequently cited article in participatory archival practices examines the social and emotional impact of community archives through interviews with users and creators of such collections. The authors argue that community archives play an important role in affirming identity, fostering belonging, and documenting histories that may be excluded from institutional archives. Their findings show that community archives function not only as research resources but also as spaces for empowerment and collective memory.
