@@ -21,12 +21,12 @@ Journal of Critical Library and Information Studies\
 
 ## Job Boards and Forums
 Many archivists also rely heavily on professional networks, internships, and listservs to learn about job opportunities, particularly in the community archives sector. According to our interview with Riona, archivists frequently use the following sites when searching for jobs:\
-[SAA Careers](https://careers.archivists.org/jobs/)\
-[Archives Gig](https://archivesgig.com\)\
-[HigherEd Jobs](https://www.higheredjobs.com\)\
+[SAA Careers](https://careers.archivists.org/jobs)\
+[Archives Gig](https://archivesgig.com)\
+[HigherEd Jobs](https://www.higheredjobs.com)\
 [Government Jobs](https://www.governmentjobs.com)\
-[INALJ](https://inalj.com\)\
-[ALA JobLIST](https://joblist.ala.org\)\
+[INALJ](https://inalj.com)\
+[ALA JobLIST](https://joblist.ala.org)\
 [CLA Career Center](https://cla-net.careerwebsite.com)
 
 ### Limited but meaningful opportunities
