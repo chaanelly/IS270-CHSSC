@@ -4,7 +4,7 @@ Baik, Crystal Mun-hye. 2022. “From ‘Best’ to Situated and Relational: Note
 
 Castro, David. 2018. "Samahang Pilipino." Los Angeles Archivists Collective. Accessed March 6, 2026. https://www.laacollective.org/work/ucla-samahang-pilipino-david-castro.
 
-Caswell, Michelle. 2021. "Introduction: Community Archives: Assimilation, Integration, or Resistance?" In Urgent Archives: Enacting Liberatory Memory Work, 1–20. New York: Routledge.
+Caswell, Michelle. 2021. "Introduction: Community Archives: Assimilation, Integration, or Resistance?" _In Urgent Archives: Enacting Liberatory Memory Work,_ 1–20. New York: Routledge.
 
 Council of Nonprofits. 2026. "Nonprofit Leaders: Federal Funding Cuts Are Driving Service Disruptions and Harming Communities Across the Country." Council of Nonprofits. Feb 23, 2026. Accessed March 9, 2026. https://www.councilofnonprofits.org/pressreleases/nonprofit-leaders-federal-funding-cuts-are-driving-service-disruptions-and-harming.
 
@@ -16,11 +16,11 @@ Johnson, Spencer. 2025. “AI’s Role in Preserving Digital Archives.” Histor
 
 Lee, Kyootai, and Kailash Joshi. 2020. “Understanding the Role of Cultural Context and User Interaction in Artificial Intelligence Based Systems.” Journal of Global Information Technology Management 23 (3): 171–75. doi:10.1080/1097198X.2020.1794131.
 
-Lo, Leo. 2026.  “The University of Virginia AI Protocol: An AI Training and Access Standard for Archival Organizations.” UVA Library, January 2026. Accessed March 9, 2026. https://library.virginia.edu/libra/open.  
+Lo, Leo. 2026. “The University of Virginia AI Protocol: An AI Training and Access Standard for Archival Organizations.” UVA Library. January 27, 2026. Accessed March 9, 2026. https://libraopen.lib.virginia.edu/public_view/2n49t189s.
 
-Potter, Andrew. “AI and the Future of Archivists and Records Managers: A Global Outlook.” Substack.com, Andrew Potter, 11 June 2025, metaarchivist.substack.com/p/ai-and-the-future-of-archivists-and.
+Potter, Andrew. 2025. “AI and the Future of Archivists and Records Managers: A Global Outlook.” Substack.com. June 11, 2025. Accessed March 9, 2026. https://metaarchivist.substack.com/p/ai-and-the-future-of-archivists-and.
 
-“Understanding AI Literacy.” Teaching Commons, Stanford University, 2024. Accessed March 9, 2026. https://teachingcommons.stanford.edu/teaching-guides/artificial-intelligence-teaching-guide/understanding-ai-literacy.
+Stanford University Teaching Commons. 2024. "Understanding AI Literacy." Accessed March 9, 2026. https://teachingcommons.stanford.edu/teaching-guides/artificial-intelligence-teaching-guide/understanding-ai-literacy.
 
 <br>
 
