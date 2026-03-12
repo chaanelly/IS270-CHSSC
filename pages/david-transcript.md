@@ -1,6 +1,10 @@
 **DAVID CASTRO** has worked with CHSSC for over five years, serving as an archival assistant on the Duty and Honor project and as a consultant on digital projects. He recently earned a Master’s in Library and Information Science from San Jose State University, specializing in Archival and Records Management, and an Advanced Certificate in Digital Assets Management. He also holds a Bachelor’s in History from the University of California, Los Angeles. Born and raised in Los Angeles, David developed a deep affinity for understanding the evolution of the city’s cultural landscape and the diverse communities that have called it home. This passion led him to appreciate the vital role of local community archives in preserving and sharing the rich, diverse histories of the city and the rest of the Southland. Currently, David works as a Special Collections and Archive Processing Specialist at California State Polytechnic University, Pomona.
 
+<br>
+
 _TRANSCRIPT START_
+
+<br>
 
 **Cheeyeon**\
 So let’s get into it. I want to ask you about your organizational mission and your current role at the Chinese Historical Society [of Southern California]. Could you begin by sharing your current priorities at the Chinese Historical Society and describing your role there as an archivist? We’d also love to hear about the Duty and Honor project.
