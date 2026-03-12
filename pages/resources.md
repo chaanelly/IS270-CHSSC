@@ -14,6 +14,9 @@ Building robust, ethical archival collections
 [Website: Faculty Organizing for Community Archives Support (FOCAS)](https://archivalfocas.org)\
 A collaborative of faculty from nine universities in the U.S. and Canada that formed to support paid internships at community archives. Info about past and present interns and lots of resources on the website.
 
+[Website: Publishing in the Archives Profession](https://archivespublishing.com)
+Huge directory of journals, podcasts, newsletters, bibliographies, and awards.
+
 
 # Readings
 
