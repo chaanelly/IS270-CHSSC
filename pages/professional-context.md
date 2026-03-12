@@ -5,19 +5,19 @@ Community archivists participate in a broader professional network that includes
 Society of American Archivists (SAA)\
 Association of Moving Image Archivists (AMIA)\
 American Library Association (ALA)\
-Society of California Archivists (SCA)\
+Society of California Archivists (SCA)
 
 ## Conferences
 Society of American Archivists Annual Meeting\
 Society of California Archivists Annual General Meeting\
 Allied Media Conference (often includes community archiving discussions)\
-International Council on Archives (ICA) events\
+International Council on Archives (ICA) events
 
 ## Journals
 The American Archivist\
 Archivaria\
 Archival Science\
-Journal of Critical Library and Information Studies\
+Journal of Critical Library and Information Studies
 
 ## Job Boards and Forums
 Many archivists also rely heavily on professional networks, internships, and listservs to learn about job opportunities, particularly in the community archives sector. According to our interview with Riona, archivists frequently use the following sites when searching for jobs:\
@@ -28,6 +28,8 @@ Many archivists also rely heavily on professional networks, internships, and lis
 [INALJ](https://inalj.com)\
 [ALA JobLIST](https://joblist.ala.org)\
 [CLA Career Center](https://cla-net.careerwebsite.com)
+
+<br>
 
 ### Limited but meaningful opportunities
 Community archives are still a relatively small sector within the archival profession. Many operate as grassroots organizations or small nonprofits with limited staff and resources (Flinn 2007; Flinn, Stevens, and Shepherd 2009). Because of this structure, full-time positions are less common than in universities, government archives, or large cultural institutions.
