@@ -1,23 +1,27 @@
 # Professional Context
 Community archivists participate in a broader professional network that includes professional associations, conferences, journals, and online forums. These organizations provide professional guidelines, networking opportunities, and continuing education resources. The journals publish scholarship on archival theory, digital preservation, ethics, and community archiving.
+<br>
 
 ## Professional Associations
 Society of American Archivists (SAA)\
 Association of Moving Image Archivists (AMIA)\
 American Library Association (ALA)\
 Society of California Archivists (SCA)
+<br>
 
 ## Conferences
 Society of American Archivists Annual Meeting\
 Society of California Archivists Annual General Meeting\
 Allied Media Conference (often includes community archiving discussions)\
 International Council on Archives (ICA) events
+<br>
 
 ## Journals
 The American Archivist\
 Archivaria\
 Archival Science\
 Journal of Critical Library and Information Studies
+<br>
 
 ## Job Boards and Forums
 Many archivists also rely heavily on professional networks, internships, and listservs to learn about job opportunities, particularly in the community archives sector. According to our interview with Riona, archivists frequently use the following sites when searching for jobs:\
