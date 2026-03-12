@@ -2,7 +2,7 @@
 
 <br>
 
-_TRANSCRIPT START_
+_°❀⋆.ೃ࿔*:･ TRANSCRIPT START °❀⋆.ೃ࿔*:･_
 
 <br>
 
