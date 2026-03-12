@@ -22,4 +22,6 @@ Finally, the interviews highlighted some of the **structural challenges** of com
 
 <br>
 
+## 50th Anniversary Video by CHSSC
+
 {% include youtube.html id="wmpA4ObgayY" %}
