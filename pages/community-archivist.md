@@ -1,9 +1,9 @@
-# Common Responsibilities
-
 ![Screenshot LA Chinatown Interactive Map](../assets/img/storymap.jpeg)\
 _Storymap of historic Chinatown architecture by Riona Tsai (2023)._
 
 <br>
+
+# Common Responsibilities
 
 Archivists working in community archives perform a combination of traditional archival work, technical digital preservation tasks, and community engagement activities.
 
