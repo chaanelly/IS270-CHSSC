@@ -20,5 +20,6 @@ Finally, the interviews highlighted some of the **structural challenges** of com
 
 ✷ _[David Castro, Archives Committee Chair](./pages/david-transcript.md)_
 
+<br>
 
-
+{% include youtube.html id="wmpA4ObgayY" %}
