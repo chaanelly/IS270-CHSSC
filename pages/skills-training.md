@@ -46,6 +46,8 @@
 
   <br>
 
+![Children playing Chinese jump rope](./assets/img/jumprope.jpeg)
+
 ## Preparation
 
 **“Learn how to learn”**\
