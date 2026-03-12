@@ -30,17 +30,13 @@ Many archivists also rely heavily on professional networks, internships, and lis
 [CLA Career Center](https://cla-net.careerwebsite.com)
 
 ### Limited but meaningful opportunities
-Community archives are still a relatively small sector within the archival profession.\
-Many operate as grassroots organizations or small nonprofits with limited staff and resources (Flinn 2007; Flinn, Stevens, and Shepherd 2009). Because of this structure, full-time positions are less common than in universities, government archives, or large cultural institutions.
+Community archives are still a relatively small sector within the archival profession. Many operate as grassroots organizations or small nonprofits with limited staff and resources (Flinn 2007; Flinn, Stevens, and Shepherd 2009). Because of this structure, full-time positions are less common than in universities, government archives, or large cultural institutions.
 
 ### Grant-funded and temporary positions
-Scholars have noted that community archives often operate with limited financial stability and rely on temporary funding sources, which can affect staffing structures (Flinn, Stevens, and Shepherd 2009).\
-Many jobs are funded through grants or short-term projects. For example, the CHSSC archivist position described in our interview is a two-year grant-funded role without benefits.
-This means archivists often move between projects or combine community archive work with other institutional roles.
+Scholars have noted that community archives often operate with limited financial stability and rely on temporary funding sources, which can affect staffing structures (Flinn, Stevens, and Shepherd 2009). Many jobs are funded through grants or short-term projects. For example, the CHSSC archivist position described in our interview is a two-year grant-funded role without benefits. This means archivists often move between projects or combine community archive work with other institutional roles.
 
 ### Growing interest in community archives
-Despite funding challenges, interest in documenting marginalized histories has grown significantly in recent years. Scholars argue that community archives have become an important way for communities to document their own histories and challenge gaps in institutional archives (Caswell, Cifor, and Ramirez 2016).\
-Universities and foundations have increasingly supported this work through collaborative programs and funding initiatives. Programs such as the Mellon-funded Community Archives Internship Program developed by Dr. Michelle Caswell at UCLA, which places graduate students in community archives and provides training in community-based archival practice, demonstrates growing institutional support for this type of work.
+Despite funding challenges, interest in documenting marginalized histories has grown significantly in recent years. Scholars argue that community archives have become an important way for communities to document their own histories and challenge gaps in institutional archives (Caswell, Cifor, and Ramirez 2016). Universities and foundations have increasingly supported this work through collaborative programs and funding initiatives. Programs such as the Mellon-funded Community Archives Internship Program developed by Dr. Michelle Caswell at UCLA, places graduate students in community archives and provides training in community-based archival practice, demonstrates growing institutional support for this type of work.
 
 <br>
 
