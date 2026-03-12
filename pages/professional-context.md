@@ -44,6 +44,11 @@ Many archivists also rely heavily on professional networks, internships, and lis
 
 <br>
 
+![Jan first, 1949 L.A. Cal Old Chinatown Kow Chew temple in Ferguson Alley.](../assets/img/kow-chew-temple.jpeg)\
+_Entrance to Kong Chow Temple on Ferguson Alley. Part of the L.T. Holman Gotchy Collection (1949)._
+
+<br>
+
 ## Analysis
 
 ### Limited but meaningful opportunities
