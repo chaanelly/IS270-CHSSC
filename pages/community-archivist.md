@@ -29,6 +29,7 @@ Link opens PDF
 
 ![Golden Spike](../assets/img/drum-corps.jpeg)\
 _First uniforms of the Chung Wah Drum and Bugle and Corps (1954)._
+_[Link to storymap](https://storymaps.arcgis.com/stories/445d4315ed564652a1ea599f755f4fa2)_
 
 <br>
 
