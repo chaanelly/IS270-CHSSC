@@ -1,3 +1,6 @@
+![CHSSC table at the Archives Bazaar](../assets/img/archives-bazaar.jpg)\
+_CHSSC staff at Archives Bazaar 2025. Photo courtesy Riona Tsai._
+
 **RIONA TSAI** is CHSSC's new archivist. She received her BA from UC Riverside in both Media & Cultural Studies and History specializing in public history, as well as a Master of Library and Information Science (MLIS) from UCLA. With a passion for community-based history and cultural heritage preservation, she has previously worked on various public history projects, such as A People’s History of the IE, as an undergrad, Cal State LA oral history intern, and as a CHSSC intern. As a CHSSC intern, she worked on the Five Chinatowns Project, created virtual exhibitions, and helped process CHSSC's archival collections. In her spare time, she enjoys going to the movies, collecting physical media, and hanging out with her cats.
 
 <br>
