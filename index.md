@@ -1,5 +1,5 @@
 ![Eugene Moy with Suellen Cheng Kwok, copying photos](./assets/img/eugene-suellen.jpg)\
-_Eugene Moy and Suellen Cheng (founders of CHSSC) sit at a table. Moy looks through a viewfinder as he copies photographs for the Southern California Chinese American Oral History Project with an overhead camera rig. (1980)_
+_Eugene Moy and Suellen Cheng sit at a table. Moy looks through a viewfinder as he copies photographs for the Southern California Chinese American Oral History Project with an overhead camera rig. (1980)_
 
 <br>
 
