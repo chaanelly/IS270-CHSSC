@@ -74,7 +74,7 @@ So I think there's a lot with Chinese archives that you don't learn in tradition
 
 I'm not saying anything about the program, it's literally just because there's so many new technologies coming. And there's so many different types of softwares and so many different types of materials that you have to learn. And so with this field, generally, not in just archiving, but like, you're just always learning new things, but especially community archiving, you kind of have to get creative. And that's a skill that you have to refine.
 
-**Cheeyeon**\ 
+**Cheeyeon**\
 Yeah, that's super helpful. Can you recommend maybe one or two more classes other than metadata?
 
 **Riona**\
