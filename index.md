@@ -1,5 +1,7 @@
-![CHSSC Building](./assets/img/chssc-building.jpeg)
-_The Chinatown Heritage Center at 411 Bernard St, Los Angeles._
+![Flag Brigade for Los Angeles Lunar New Year Parade](../assets/img/CNY-parade-1.jpg)\
+_Led by the Yee brothers, CHSSC organizes a flag brigade and marches in the Chinese Chamber of Commerce's Lunar New Year parade in Los Angeles Chinatown for the first time. CHSSC has continued to lead the parade since then. (1976)_
+
+<br>
 
 # Overview
 
@@ -20,6 +22,11 @@ Finally, the interviews revealed the **structural challenges** of the work. Rion
 ✷ _[Riona Tsai, Community Archivist](./pages/riona-transcript.md)_
 
 ✷ _[David Castro, Archives Committee Chair](./pages/david-transcript.md)_
+
+<br>
+
+![CHSSC Building](./assets/img/chssc-building.jpeg)
+_The Chinatown Heritage Center at 411 Bernard St, Los Angeles._
 
 <br>
 
