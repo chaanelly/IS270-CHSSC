@@ -1,5 +1,5 @@
 ![Katherine Cheung in pilot uniform, posing in front of plane](../assets/img/katherine-cheung.jpg)\
-_Katherine Cheung, outstanding Chinese American woman pilot with the 99 Club, which was headed by Amelia Earhart (1949)._
+_Katherine Cheung, outstanding Chinese American woman pilot with the 99 Club, which was headed by Amelia Earhart (1932)._
 
 <br>
 
