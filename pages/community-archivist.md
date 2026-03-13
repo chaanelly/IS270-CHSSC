@@ -1,6 +1,6 @@
-![Screenshot LA Chinatown Interactive Map](../assets/img/storymap.jpeg)\
-_Storymap of historic Chinatown architecture by Riona Tsai (2023)._
-_[Link to storymap](https://storymaps.arcgis.com/stories/13abe733662e493dbfde4fa4ca98cf7d)_
+![Women of the Chung Wah Drum and Bugle and Corps playing trumpets](../assets/img/drum-corps.jpeg)\
+_First uniforms of the Chung Wah Drum and Bugle and Corps (1954)._
+_[Link to storymap](https://storymaps.arcgis.com/stories/445d4315ed564652a1ea599f755f4fa2)_
 
 <br>
 
@@ -28,9 +28,9 @@ _Link opens PDF_
 
 <br>
 
-![Golden Spike](../assets/img/drum-corps.jpeg)\
-_First uniforms of the Chung Wah Drum and Bugle and Corps (1954)._
-_[Link to storymap](https://storymaps.arcgis.com/stories/445d4315ed564652a1ea599f755f4fa2)_
+![Screenshot LA Chinatown Interactive Map](../assets/img/storymap.jpeg)\
+_Storymap of historic Chinatown architecture by Riona Tsai (2023)._
+_[Link to storymap](https://storymaps.arcgis.com/stories/13abe733662e493dbfde4fa4ca98cf7d)_
 
 <br>
 
