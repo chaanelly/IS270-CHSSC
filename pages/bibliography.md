@@ -1,3 +1,6 @@
+![Katherine Cheung in pilot uniform, posing in front of plane](../assets/img/katherine-cheung.jpg)\
+_Katherine Cheung, outstanding Chinese American woman pilot with the 99 Club, which was headed by Amelia Earhart (1949)._
+
 # Bibliography
 
 Baik, Crystal Mun-hye. 2022. “From ‘Best’ to Situated and Relational: Notes Toward a Decolonizing Praxis.” The Oral History Review 49 (1): 3–28. doi:10.1080/00940798.2022.2026197.
