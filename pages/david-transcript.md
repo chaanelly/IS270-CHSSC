@@ -1,3 +1,8 @@
+![Book Cover of Duty and Honor: A Tribute to Chinese Americans World War II Veterans of Southern California](../assets/img/Duty-Honor.jpg)\
+_Duty and Honor: A Tribute to Chinese Americans World War II Veterans of Southern California (1994)._
+
+<br>
+
 **DAVID CASTRO** has worked with CHSSC for over five years, serving as an archival assistant on the Duty and Honor project and as a consultant on digital projects. He recently earned a Master’s in Library and Information Science from San Jose State University, specializing in Archival and Records Management, and an Advanced Certificate in Digital Assets Management. He also holds a Bachelor’s in History from the University of California, Los Angeles. Born and raised in Los Angeles, David developed a deep affinity for understanding the evolution of the city’s cultural landscape and the diverse communities that have called it home. This passion led him to appreciate the vital role of local community archives in preserving and sharing the rich, diverse histories of the city and the rest of the Southland. Currently, David works as a Special Collections and Archive Processing Specialist at California State Polytechnic University, Pomona.
 
 <br>
