@@ -327,7 +327,7 @@ I think we covered good ground.
 **Riona**\
 Yeah, thank you so much. I'm glad to talk with you guys. And feel free to reach out. I will send you the job description and also a list of the job hunting. So I'll send that to you guys tonight, at least. Well, probably earlier. But today I will send it to you. 
 
-**Cheeyeon**\ 
+**Cheeyeon**\
 Thank you. We really appreciate it.
 
 **Riona**\
