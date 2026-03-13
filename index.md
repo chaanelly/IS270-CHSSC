@@ -1,5 +1,5 @@
-![Flag Brigade for Los Angeles Lunar New Year Parade](./assets/img/CNY-parade-1.jpg)\
-_Led by the Yee brothers, CHSSC organizes a flag brigade and marches in the Chinese Chamber of Commerce's Lunar New Year parade in Los Angeles Chinatown for the first time. CHSSC has continued to lead the parade since then. (1976)_
+![Eugene Moy with Suellen Cheng Kwok, copying photos](./assets/img/eugene-suellen.jpg)\
+_Eugene Moy and Suellen Cheng (founders of CHSSC) sit at a table. Moy looks through a viewfinder as he copies photographs for the Southern California Chinese American Oral History Project with an overhead camera rig. (1980)_
 
 <br>
 
