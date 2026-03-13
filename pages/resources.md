@@ -1,5 +1,5 @@
 ![Flag Brigade for Los Angeles Lunar New Year Parade](../assets/img/CNY-parade-1.jpg)\
-_Led by the Yee brothers, CHSSC organizes a flag brigade and marches in the Chinese Chamber of Commerce's Lunar New Year parade in Los Angeles Chinatown for the first time. CHSSC has continued to lead the parade since then, 1976._
+_Led by the Yee brothers, CHSSC organizes a flag brigade and marches in the Chinese Chamber of Commerce's Lunar New Year parade in Los Angeles Chinatown for the first time. CHSSC has continued to lead the parade since then. (1976)_
 
 <br>
 
