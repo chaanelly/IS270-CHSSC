@@ -5,6 +5,9 @@ _Street scene on North Alameda Street. Part of the L.T. Holman Gotchy Collection
 
 # Readings
 
+**Caswell, Michelle. "Inventing New Archival Imaginaries: Theoretical Foundations for Identity-Based Community Archives." In _Identity Palimpsests: Ethnic Archiving in the U.S. and Canada,_ edited by Dominique Daniel and Amalia S. Levi, 35–55. Los Angeles, CA: Litwin Books, 2014.**\
+This article discusses theoretical foundations of identity-based community archives using the author’s experience with the South Asian American Digital Archive (SAADA) as a focal point. Caswell argues that community archives can both challenge and leverage identity-based social categories to advocate for social justice. Through SAADA’s efforts to digitize records of the Ghadar Party of 1913, South Asian political history in California and the US is being revealed and renegotiated in the collective memory. Community-centered archival interventions of the past can radically change our imaginations and visions of the future.
+
 **Caswell, Michelle, Marika Cifor, and Mario H. Ramirez. “To Suddenly Discover Yourself Existing: Uncovering the Impact of Community Archives.” _The American Archivist_ 79, no. 1 (2016): 56–81.**\
 This frequently cited article in participatory archival practices examines the social and emotional impact of community archives through interviews with users and creators of such collections. The authors argue that community archives play an important role in affirming identity, fostering belonging, and documenting histories that may be excluded from institutional archives. Their findings show that community archives function not only as research resources but also as spaces for empowerment and collective memory.
 
@@ -14,8 +17,8 @@ This article provides a foundational overview of the community archive movement,
 **Flinn, Andrew, Mary Stevens, and Elizabeth Shepherd. “Whose Memories, Whose Archives? Independent Community Archives, Autonomy and the Mainstream.” _Archival Science_ 9, no. 1–2 (2009): 71–86.**\
 This article explores the relationship between independent community archives and larger institutional archives. The authors argue that community archives allow marginalized groups to maintain greater control over how their histories are preserved and represented. They also discuss tensions between community autonomy and professional archival standards. The article contributes to ongoing debates about authority, representation, and participatory archival practice.
 
-**Caswell, Michelle. "Inventing New Archival Imaginaries: Theoretical Foundations for Identity-Based Community Archives." In _Identity Palimpsests: Ethnic Archiving in the U.S. and Canada,_ edited by Dominique Daniel and Amalia S. Levi, 35–55. Los Angeles, CA: Litwin Books, 2014.**\
-This article discusses theoretical foundations of identity-based community archives using the author’s experience with the South Asian American Digital Archive (SAADA) as a focal point. Caswell argues that community archives can both challenge and leverage identity-based social categories to advocate for social justice. Through SAADA’s efforts to digitize records of the Ghadar Party of 1913, South Asian political history in California and the US is being revealed and renegotiated in the collective memory. Community-centered archival interventions of the past can radically change our imaginations and visions of the future.
+**Magaña, Maurice Rafael. 2022. “Multimodal Archives of Transborder Belonging: Murals, Social Media, and Racialized Geographies in Los Angeles.” American Anthropologist (Oxford) 124 (4): 703–20.**
+This article discusses multimodal archives, namely murals painted by Indigenous Oaxacan immigrants in Los Angeles, that are important to capture in ethnographic community archival work. The author explores ways people are extending the life of ephemeral murals through photography, digitization, social media sharing, and reproduction. The murals share counter-narrative messages that combat erasure and reflect perspectives of Indigenous communities and transnational belonging and identity.
 
 <br>
 
