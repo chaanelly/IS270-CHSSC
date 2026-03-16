@@ -17,7 +17,7 @@ This article provides a foundational overview of the community archive movement,
 **Flinn, Andrew, Mary Stevens, and Elizabeth Shepherd. “Whose Memories, Whose Archives? Independent Community Archives, Autonomy and the Mainstream.” _Archival Science_ 9, no. 1–2 (2009): 71–86.**\
 This article explores the relationship between independent community archives and larger institutional archives. The authors argue that community archives allow marginalized groups to maintain greater control over how their histories are preserved and represented. They also discuss tensions between community autonomy and professional archival standards. The article contributes to ongoing debates about authority, representation, and participatory archival practice.
 
-**Magaña, Maurice Rafael. 2022. “Multimodal Archives of Transborder Belonging: Murals, Social Media, and Racialized Geographies in Los Angeles.” American Anthropologist (Oxford) 124 (4): 703–20.**
+**Magaña, Maurice Rafael. 2022. “Multimodal Archives of Transborder Belonging: Murals, Social Media, and Racialized Geographies in Los Angeles.” American Anthropologist (Oxford) 124 (4): 703–20.**\
 This article discusses multimodal archives, namely murals painted by Indigenous Oaxacan immigrants in Los Angeles, that are important to capture in ethnographic community archival work. The author explores ways people are extending the life of ephemeral murals through photography, digitization, social media sharing, and reproduction. The murals share counter-narrative messages that combat erasure and reflect perspectives of Indigenous communities and transnational belonging and identity.
 
 <br>
